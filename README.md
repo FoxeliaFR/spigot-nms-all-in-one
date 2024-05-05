@@ -98,6 +98,7 @@ chmod +x run.sh
 4. When all versions are compiled and merged into a single JAR file, the script will ask you if you want to install the JAR file in your local maven repository.
 <br/>Answer `y` to install the JAR file in your local maven repository.
 <br/>Answer `n` if you prefer importing the JAR file manually in your project (you can do both by answering `y` to this step).
+
 5. The script will ask you if you want to delete created JAR files.
 <br/>Answer `y` to delete the JAR files and free up space.
 <br/>Answer `n` if you want to keep the JAR files for importing them manually in your project.
