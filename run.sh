@@ -614,7 +614,7 @@ if [ "$1" == "--help" ]; then
   echo "Flags:"
   echo "  --help : Display help"
   echo "  -d : Debug mode"
-  echo "  -f : Force mode (not implemented yet)"
+  echo "  -f : Force mode (rebuild all versions)"
   echo " "
   pressKeyAndExit 0
 fi
